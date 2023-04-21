@@ -3,26 +3,37 @@ ppt link-  https://www.canva.com/design/DAFfPqsnOQ8/xPYsrJO6yqn4SpiMtpos3w/edit?
 
 <h1>Table of content</h1>
 1.Java Spring Boot
+
 2.Features of Spring Boot
+
 3.Why is Spring Framework so popular?
+
 4.Step to build web-application
+
 5.Implementation
 
 <h1>Java Spring Boot:-</h1>
 Java Spring Framework (Spring Framework) is a popular, open source, enterprise-level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM). Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
 
 (I)Autoconfiguration
+
 (II)An opinionated approach to configuration.
+
 (III)The ability to create standalone applications.
 
 These features work together to provide you with a tool that allows you to set up a Spring-based application with minimal configuration and setup.
 
 <h1>Features of Spring Boot:-</h1>
 (a)Create stand-alone Spring applications
+
 (b)Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
+
 (c)Provide opinionated 'starter' dependencies to simplify your build configuration
+
 (d)Automatically configure Spring and 3rd party libraries whenever possible
+
 (e)Provide production-ready features such as metrics, health checks, and externalized configuration
+
 (f)Absolutely no code generation and no requirement for XML configuration
 
 
@@ -33,14 +44,19 @@ Spring Framework also offers built-in support for typical tasks that an applicat
 
 <h1>Step to build web-application</h1>
 ●Download a ide for java (here i have used eclipse ide).
+
 ●There are 2 ways for installing and using springboot's properties in the project:
 
 Importing springboot through plugin or through downloading a zip file and importing in the ide. Downloading a zip file and importing in ide.
 
 (1) Search "Spring initializr" on chrome.
+
 (2)Add dependencies and other suitable settings and then generate the zip file.
+
 (3)Import the zip file in your respective ide.
+
 (4)After writing the code in the project, run the main java class which is present in src >>> main >>> java.
+
 (5)Goto chrome and search localhost:8080/login
 
 <h1>Implementations</h1>
