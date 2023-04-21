@@ -155,7 +155,7 @@ login.jsp page
 <br>
 <input type="submit" value="submit">
 <br>
-<h2>${errorMessage}</h2>
+${errorMessage}
 <br>
 </div>
 </form>
