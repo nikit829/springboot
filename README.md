@@ -12,7 +12,7 @@ ppt link-  https://www.canva.com/design/DAFfPqsnOQ8/xPYsrJO6yqn4SpiMtpos3w/edit?
 
 5.Implementation
 
-Java Spring Boot:-
+<h1>Java Spring Boot:-</h1>
 Java Spring Framework (Spring Framework) is a popular, open source, enterprise-level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM). Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
 
 (I)Autoconfiguration
@@ -23,7 +23,7 @@ Java Spring Framework (Spring Framework) is a popular, open source, enterprise-l
 
 These features work together to provide you with a tool that allows you to set up a Spring-based application with minimal configuration and setup.
 
-Features of Spring Boot:-
+<h1>Features of Spring Boot:-</h1>
 (a)Create stand-alone Spring applications
 
 (b)Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
@@ -37,12 +37,12 @@ Features of Spring Boot:-
 (f)Absolutely no code generation and no requirement for XML configuration
 
 
-Why is Spring Framework so popular?
+<h1>Why is Spring Framework so popular?</h1>
 Spring Framework offers a dependency injection feature that lets objects define their own dependencies that the Spring container later injects into them. This enables developers to create modular applications consisting of loosely coupled components that are ideal for microservices and distributed network applications.
 
 Spring Framework also offers built-in support for typical tasks that an application needs to perform, such as data binding, type conversion, validation, exception handling, resource and event management, internationalization, and more. It integrates with various Java EE technologies such as RMI (Remote Method Invocation), AMQP (Advanced Message Queuing Protocol), Java Web Services, and others. In sum, Spring Framework provides developers with all the tools and features the need to create loosely coupled, cross-platform Java EE applications that run in any environment.
 
-Step to build web-application
+<h1>Step to build web-application</h1>
 ●Download a ide for java (here i have used eclipse ide).
 
 ●There are 2 ways for installing and using springboot's properties in the project:
@@ -59,7 +59,7 @@ Importing springboot through plugin or through downloading a zip file and import
 
 (5)Goto chrome and search localhost:8080/login
 
-Implementations
+<h1>Implementations</h1>
 Pom.xml
 4.0.0 org.springframework.boot spring-boot-starter-parent 2.7.10 com.example springbootjsp-demo 0.0.1-SNAPSHOT springbootjsp-demo Demo project for Spring Boot <java.version>1.8</java.version> org.springframework.boot spring-boot-starter-web
 
@@ -160,4 +160,4 @@ login.jsp page
 </div>
 </form>
 welcome.jsp page
-Welcome!!!
+<h1>Welcome!!!</h1>
